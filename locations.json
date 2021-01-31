@@ -25,6 +25,26 @@
 {"lat": 62.419, "lng": -123.724}
 ]
   },
+	  {
+    "id":2,
+    "type":"Territory Areas",
+    "title":"CGF",
+    "notes":"ITS A PURPLE WORLD!",
+	"wiki_link":"https://subversionrp.fandom.com/wiki/CGF",
+    "order":1,
+	"strokecolor":"#1a8b3a",
+	"fillcolor":"#66bd7e",
+    "latlngarray": 
+[
+{"lat": 63.935, "lng": -126.197},
+{"lat": 63.506, "lng": -125.056},
+{"lat": 63.032, "lng": -125.880},
+{"lat": 63.176, "lng": -126.220},
+{"lat": 63.156, "lng": -126.473},
+{"lat": 63.032, "lng": -126.825},
+{"lat": 63.619, "lng": -126.847}
+]
+  },
     {
     "id":39,
     "type":"Neutral Zones",
