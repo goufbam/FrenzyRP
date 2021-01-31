@@ -82,6 +82,31 @@
 {"lat": 61.711, "lng": -120.557}
 ]
   },
+			  {
+    "id":5,
+    "type":"Territory Areas",
+    "title":"MG",
+    "notes":"MG",
+	"wiki_link":"https://subversionrp.fandom.com/wiki/MG",
+    "order":1,
+	"strokecolor":"#0026ff",
+	"fillcolor":"#5c7adb",
+    "latlngarray": 
+[
+{"lat": 63.372, "lng": -113.672},
+{"lat": 63.829, "lng": -112.210},
+{"lat": 63.993, "lng": -111.002},
+{"lat": 64.046, "lng": -110.277},
+{"lat": 63.921, "lng": -110.409},
+{"lat": 63.873, "lng": -110.562},
+{"lat": 63.561, "lng": -111.551},
+{"lat": 63.459, "lng": -111.793},
+{"lat": 63.326, "lng": -112.276},
+{"lat": 63.177, "lng": -112.881},
+{"lat": 63.083, "lng": -113.232},
+{"lat": 63.068, "lng": -113.452}
+]
+  },
     {
     "id":39,
     "type":"Neutral Zones",
