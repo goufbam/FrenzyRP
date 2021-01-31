@@ -65,6 +65,23 @@
 {"lat": 64.142, "lng": -124.326}
 ]  
   },
+		  {
+    "id":4,
+    "type":"Territory Areas",
+    "title":"VAGOS",
+    "notes":"ESV",
+	"wiki_link":"https://subversionrp.fandom.com/wiki/ESV",
+    "order":1,
+	"strokecolor":"#063313",
+	"fillcolor":"#05ff4a",
+    "latlngarray": 
+[
+{"lat": 62.140, "lng": -121.524},
+{"lat": 61.586, "lng": -122.568},
+{"lat": 61.112, "lng": -121.469},
+{"lat": 61.711, "lng": -120.557}
+]
+  },
     {
     "id":39,
     "type":"Neutral Zones",
