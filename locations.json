@@ -43,7 +43,27 @@
 {"lat": 63.156, "lng": -126.473},
 {"lat": 63.032, "lng": -126.825},
 {"lat": 63.619, "lng": -126.847}
-]
+]	  
+  },
+	  {
+    "id":3,
+    "type":"Territory Areas",
+    "title":"GSF",
+    "notes":"GSF",
+	"wiki_link":"https://subversionrp.fandom.com/wiki/GSF",
+    "order":1,
+	"strokecolor":"#063313",
+	"fillcolor":"#05ff4a",
+    "latlngarray": 
+[
+{"lat": 64.329, "lng": -124.150},
+{"lat": 64.300, "lng": -125.391},
+{"lat": 64.070, "lng": -126.083},
+{"lat": 63.921, "lng": -125.743},
+{"lat": 64.118, "lng": -125.347},
+{"lat": 64.190, "lng": -124.479},
+{"lat": 64.142, "lng": -124.326}
+]  
   },
     {
     "id":39,
