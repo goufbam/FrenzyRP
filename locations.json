@@ -10,60 +10,51 @@
 	"fillcolor":"#551a8b",
     "latlngarray": 
 [
-{"lat": 62.952, "lng": -125.154},
-{"lat": 62.877, "lng": -125.494},
-{"lat": 62.698, "lng": -125.951},
-{"lat": 62.093, "lng": -124.391},
-{"lat": 61.886, "lng": -123.930},
-{"lat": 61.631, "lng": -123.687},
-{"lat": 61.626, "lng": -123.270},
-{"lat": 61.813, "lng": -123.164},
-{"lat": 62.092, "lng": -122.648},
-{"lat": 62.261, "lng": -122.351},
-{"lat": 62.597, "lng": -123.098},
-{"lat": 62.657, "lng": -123.307},
-{"lat": 62.419, "lng": -123.724}
-]
+{"lat": 62.955, "lng": -125.172},
+{"lat": 62.750, "lng": -126.051},
+{"lat": 61.645, "lng": -123.677},
+{"lat": 61.635, "lng": -123.260},
+{"lat": 62.101, "lng": -122.634}
   },
 	  {
     "id":2,
     "type":"Territory Areas",
-    "title":"CGF",
-    "notes":"CGF",
+    "title":"Thuggs",
+    "notes":"Thuggs Life",
 	"wiki_link":"https://frenzyrp.fandom.com/wiki/FrenzyRP_Wiki",
     "order":1,
-	"strokecolor":"#1a8b3a",
-	"fillcolor":"#66bd7e",
+	"strokecolor":"#1228b8",
+	"fillcolor":"#6673c4",
     "latlngarray": 
 [
-{"lat": 63.935, "lng": -126.197},
-{"lat": 63.506, "lng": -125.056},
-{"lat": 63.032, "lng": -125.880},
-{"lat": 63.176, "lng": -126.220},
-{"lat": 63.156, "lng": -126.473},
-{"lat": 63.032, "lng": -126.825},
-{"lat": 63.619, "lng": -126.847}
-]	  
+{"lat": 64.234, "lng": -126.514},
+{"lat": 64.486, "lng": -125.591},
+{"lat": 64.486, "lng": -123.580},
+{"lat": 64.410, "lng": -123.229},
+{"lat": 64.023, "lng": -123.976},
+{"lat": 63.596, "lng": -124.789},
+{"lat": 63.849, "lng": -125.514}
+]
   },
 	  {
     "id":3,
     "type":"Territory Areas",
-    "title":"GSF",
-    "notes":"GSF",
+    "title":"ESR",
+    "notes":"ESR",
 	"wiki_link":"https://frenzyrp.fandom.com/wiki/FrenzyRP_Wiki",
     "order":1,
 	"strokecolor":"#063313",
 	"fillcolor":"#05ff4a",
     "latlngarray": 
 [
-{"lat": 64.329, "lng": -124.150},
-{"lat": 64.300, "lng": -125.391},
-{"lat": 64.070, "lng": -126.083},
-{"lat": 63.921, "lng": -125.743},
-{"lat": 64.118, "lng": -125.347},
-{"lat": 64.190, "lng": -124.479},
-{"lat": 64.142, "lng": -124.326}
-]  
+{"lat": 64.195, "lng": -127.112},
+{"lat": 64.200, "lng": -126.937},
+{"lat": 63.979, "lng": -126.310},
+{"lat": 63.503, "lng": -125.024},
+{"lat": 62.836, "lng": -126.255},
+{"lat": 63.091, "lng": -126.991},
+{"lat": 63.323, "lng": -127.848}
+]
   },
 		  {
     "id":4,
@@ -76,50 +67,72 @@
 	"fillcolor":"#f2ff00",
     "latlngarray": 
 [
-{"lat": 62.140, "lng": -121.524},
-{"lat": 61.586, "lng": -122.568},
-{"lat": 61.112, "lng": -121.469},
-{"lat": 61.711, "lng": -120.557}
+{"lat": 62.240, "lng": -121.818},
+{"lat": 61.631, "lng": -122.906},
+{"lat": 61.507, "lng": -122.323},
+{"lat": 61.106, "lng": -121.433},
+{"lat": 61.010, "lng": -121.103},
+{"lat": 61.233, "lng": -120.466},
+{"lat": 61.476, "lng": -120.027}
 ]
   },
 			  {
     "id":5,
     "type":"Territory Areas",
-    "title":"MG",
-    "notes":"MG",
+    "title":"NLG",
+    "notes":"NLG",
 	"wiki_link":"https://frenzyrp.fandom.com/wiki/FrenzyRP_Wiki",
     "order":1,
-	"strokecolor":"#0026ff",
-	"fillcolor":"#5c7adb",
+	"strokecolor":"#470435",
+	"fillcolor":"#fc00b9",
     "latlngarray": 
 [
-{"lat": 63.372, "lng": -113.672},
-{"lat": 63.829, "lng": -112.210},
-{"lat": 63.993, "lng": -111.002},
-{"lat": 64.046, "lng": -110.277},
-{"lat": 63.921, "lng": -110.409},
-{"lat": 63.873, "lng": -110.562},
-{"lat": 63.561, "lng": -111.551},
-{"lat": 63.459, "lng": -111.793},
-{"lat": 63.326, "lng": -112.276},
-{"lat": 63.177, "lng": -112.881},
-{"lat": 63.083, "lng": -113.232},
-{"lat": 63.068, "lng": -113.452}
+{"lat": 64.054, "lng": -110.285},
+{"lat": 63.865, "lng": -111.933},
+{"lat": 63.832, "lng": -112.240},
+{"lat": 63.451, "lng": -113.724},
+{"lat": 63.066, "lng": -113.460},
+{"lat": 62.951, "lng": -113.361},
+{"lat": 62.533, "lng": -113.031},
+{"lat": 62.755, "lng": -111.746},
+{"lat": 62.876, "lng": -110.988},
+{"lat": 63.382, "lng": -111.658},
+{"lat": 63.495, "lng": -111.438},
+{"lat": 63.933, "lng": -110.109}
+]
+  },
+  {
+    "id":5,
+    "type":"Territory Areas",
+    "title":"Aces",
+    "notes":"Aces",
+	"wiki_link":"https://frenzyrp.fandom.com/wiki/FrenzyRP_Wiki",
+    "order":1,
+	"strokecolor":"#360207",
+	"fillcolor":"#ff0019",
+    "latlngarray": 
+[
+{"lat": 63.949, "lng": -135.738},
+{"lat": 63.809, "lng": -136.233},
+{"lat": 63.610, "lng": -135.903},
+{"lat": 63.102, "lng": -135.145},
+{"lat": 63.300, "lng": -134.629},
+{"lat": 63.692, "lng": -135.343}
 ]
   },
     {
     "id":39,
     "type":"Neutral Zones",
-    "title":"North Side Motel",
-    "notes":"Prime time hostage taking VOL. 3",
+    "title":"Hospital",
+    "notes":"EMS CHILL HERE",
     "order":2,
 	"strokecolor":"#FFC0CB",
 	"fillcolor":"#fff",
     "latlngarray":   [
-{"lat": 70.580, "lng": -119.984},
-{"lat": 70.378, "lng": -120.170},
-{"lat": 70.300, "lng": -119.335},
-{"lat": 70.477, "lng": -119.149}
+{"lat": 67.721, "lng": -121.735},
+{"lat": 67.692, "lng": -120.680},
+{"lat": 67.365, "lng": -121.144},
+{"lat": 67.479, "lng": -122.012}
 ]
   }
 ]
